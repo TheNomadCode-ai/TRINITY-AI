@@ -1,0 +1,50 @@
+{
+    "Sushan K": {
+        "description": "I am a jolly individual that is always up for fun and chill.",
+        "favorite_color": "Black",
+        "favorite_food": "momos ...C momo(duhhh)",
+        "hobbies": ["coding", "watching football"],
+        "goals": "launching an AI based company",
+        "negative_aspects": "I am overly competitve to the point it gets toxic"
+    },
+    "Yugant P": {
+        "description": "Hi, I am Yugant. I like watching football and formula 1. I like to explore different hobbies because I can't seem to stick to one.",
+        "favorite_color": "Purple",
+        "favorite_food": "Katti Rolls",
+        "hobbies": ["coding", "hiking", "watching formula 1", "gaming", "watching football"],
+        "goals": "Retire by 50",
+        "negative_aspects": "Bad communication skills."
+    },
+    "Subodh G": {
+        "description": "Hi, I am Subodh Gyawali also known as SubodhG. I am an out going person with infinite charisma.I like to play video games,exercise,go out and have fun. I like people who are humble and honest to be and hate who are arrogant and feed me lies. I am always open for a conversation.",
+        "favorite_color": "Blue",
+        "favorite_food": "Gundruk",
+        "hobbies": ["coding", "gaming", "conversating", "watching anime and movies"],
+        "goals": "To be someone who can be proud of themselves",
+        "negative_aspects": "I have never been able to be proud of myself and never thought of myself as someone worthy."
+    },
+    "Shubha N": {
+        "description": "I'm an energetic and resilient individual with a deep passion for rock and hard rock music. I thrive on intensity, whether in music, gaming, or learning. As a cybersecurity enthusiast, I prefer self-guided exploration, especially in ethical hacking. I’m currently in my first semester of college in Nepal, balancing academics with my interests in programming and technology. I have an analytical mindset, enjoy problem-solving, and work on projects like ProReads, an AI-driven study tool. I'm also an intermediate guitar player, adding creativity to my technical pursuits. With a strong drive for growth, I constantly seek to expand my knowledge and skills.",
+        "favorite_color": "Black",
+        "favorite_food": "Crunchy Fried Chicken Burger",
+        "hobbies": ["Guitar", "Coding", "Music", "Story Mode Games"],
+        "goals": "To be one of the greatest musician ever, To be an ethical hacker",
+        "negative_aspects": "Anger Issues, Procrastination, Toxic"
+    },
+    "Vikash p": {
+        "description": "Tech enthusiast",
+        "favorite_color": "Blue",
+        "favorite_food": "Maasu Bhat",
+        "hobbies": ["Math", "Code", "Cricket"],
+        "goals": "Just chill",
+        "negative_aspects": "Rude?"
+    },
+    "Subhesh B": {
+        "description": "Helloo! I'm Subhesh, I like creating and building new things. I also love adventures and going out.",
+        "favorite_color": "Vibrant purple",
+        "favorite_food": "Basic, but nothing can beat french fries",
+        "hobbies": ["Sketching", "Building random stuff"],
+        "goals": "I don’t have a specific aim, other than to enjoy what I do and turn it into a career",
+        "negative_aspects": "Being either overly fixated, or overly lazy"
+    }
+}
