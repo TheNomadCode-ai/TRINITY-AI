@@ -4,11 +4,11 @@
         "favorite_color": "Black",
         "favorite_food": "momos ...C momo(duhhh)",
         "hobbies": ["coding", "watching football"],
-        "goals": "launching an AI based company",
-        "negative_aspects": "I am overly competitve to the point it gets toxic"
+        "goals": "launching an AI-based company",
+        "negative_aspects": "I am overly competitive to the point it gets toxic"
     },
     "Yugant P": {
-        "description": "Hi, I am Yugant. I like watching football and formula 1. I like to explore different hobbies because I can't seem to stick to one.",
+        "description": "Hi, I am Yugant. I like watching football and Formula 1. I like to explore different hobbies because I can't seem to stick to one.",
         "favorite_color": "Purple",
         "favorite_food": "Katti Rolls",
         "hobbies": ["coding", "hiking", "watching formula 1", "gaming", "watching football"],
@@ -16,7 +16,7 @@
         "negative_aspects": "Bad communication skills."
     },
     "Subodh G": {
-        "description": "Hi, I am Subodh Gyawali also known as SubodhG. I am an out going person with infinite charisma.I like to play video games,exercise,go out and have fun. I like people who are humble and honest to be and hate who are arrogant and feed me lies. I am always open for a conversation.",
+        "description": "Hi, I am Subodh Gyawali also known as SubodhG. I am an outgoing person with infinite charisma.I like to play video games,e xercise,go out and have fun. I like people who are humble and honest to be and hate who are arrogant and feed me lies. I am always open for a conversation.",
         "favorite_color": "Blue",
         "favorite_food": "Gundruk",
         "hobbies": ["coding", "gaming", "conversating", "watching anime and movies"],
@@ -28,10 +28,10 @@
         "favorite_color": "Black",
         "favorite_food": "Crunchy Fried Chicken Burger",
         "hobbies": ["Guitar", "Coding", "Music", "Story Mode Games"],
-        "goals": "To be one of the greatest musician ever, To be an ethical hacker",
+        "goals": "To be one of the greatest musicians ever, To be an ethical hacker",
         "negative_aspects": "Anger Issues, Procrastination, Toxic"
     },
-    "Vikash p": {
+    "Vikash P": {
         "description": "Tech enthusiast",
         "favorite_color": "Blue",
         "favorite_food": "Maasu Bhat",
