@@ -1,5 +1,5 @@
 discord.py
 json
 random
-ollama==0.4.7 # Ensure you have the correct version of the Ollama package
+ollama==0.5.11 # Ensure you have the correct version of the Ollama package
 discord.py==2.5.0 # Version of discord.py that supports your code
