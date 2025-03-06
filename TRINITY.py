@@ -2,7 +2,7 @@ import discord
 import json
 import ollama  # Import the Ollama package
 import os
-from dotenv import load_dotenv
+
 
 # Define the path to the JSON file
 JSON_PATH = "peoples_data.json"  # Ensure this file is uploaded to Replit in the root directory
@@ -88,7 +88,7 @@ async def on_message(message):
 
 load_dotenv()  # Load environment variables from .env file
 
-TOKEN = os.getenv('BOT_TOKEN')  # Get the bot token from environment variables
+TOKEN = os.environ["BOT_TOKEN"] # Get the bot token from environment variables
 client.run(TOKEN)
 
 
